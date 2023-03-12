@@ -70,7 +70,7 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
    1) KPIs are placed at the top of the dashboard, to easily view the figures associated with 'Total Complaints', 'Timely Response', 'Complaints In Progress', 'Disputed Rate' and 'Resolved at No Cost'.
 
-   2) Complaints are segmented by 'Issue', 'States', 'Media', and 'Product'. For States, a ‘hex map’ is used, while for Media, a ‘Lollipop’ chart is used.
+   2) Complaints are segmented by 'Issue', 'States', 'Media', 'Product'. For States, a ‘hex map’ is used, for Media, a ‘Lollipop’ chart is used.
 
    3) A ‘Donut’ Chart is used to show the percentage of disputed customers.
 
@@ -82,24 +82,19 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
    
     • 98.05% of responses by bank were delivered in time as shown by horizontal bar chart.
    
-    • There were 283 complaints pending which, a minute 0.37% of the total Companies’ response to Consumer. 
-      It implies that Bank is quick in handling cases majorly.
+    • There were 283 complaints pending which, a minute 0.37% of the total Companies’ response to Consumer. It implies that Bank is quick in handling cases majorly.
    
     • 84.52% of cases were resolved with NO monetary relief.
    
-    • The Highest Number of Complaints wrt to Products/Services were found in as follows; 
-      o Credit Card ~ 19,176 (25.36%) o Checking or Saving Account ~ 13,436(17.79%) o Mortgage ~ 12,470 (16.51%)
+    • The Highest Number of Complaints wrt to Products/Services were found in as follows; o Credit Card ~ 19,176 (25.36%) o Checking or Saving Account ~ 13,436(17.79%) o Mortgage ~ 12,470 (16.51%)
    
-    • There were 31,203 complaints in Customer Dispute Cases approximately 40% of the total. Whereas 50% 
-      of the complaints are in ‘NA’ category. Here 2 Pie Chart were created and dual axis feature was used.
+    • There were 31,203 complaints in Customer Dispute Cases approximately 40% of the total. Whereas 50% of the complaints are in ‘NA’ category. Here 2 Pie Chart were created and dual axis feature was used.
    
     • Almost 50% of the Complaints were submitted via Internet ie. Website, Portal, Mobile App etc.
    
     • Consumers’ top issue was regarding ‘Managing an Account’, followed by Deposits & Withdrawal.
    
-    • For complaints arising from different states, I created ‘hex map’ for better view. States with highest number 
-      of complaints was shown in darker shade. States with small number of complaints was shown in lighter shade. 
-      The intensity of shade from darker to lighter were used for corresponding number of complaints.
+    • For complaints arising from different states, I created ‘hex map’ for better view. States with highest number of complaints was shown in darker shade. States with small number of complaints was shown in lighter shade. The intensity of shade from darker to lighter were used for corresponding number of complaints.
    
 ## Results
 
