@@ -1,5 +1,8 @@
 # Financial Consumer Complaints Data Analysis Using Tableau Dashboard
 
+![Financial_Complaints_KPI_Analysis_Project (2)](https://user-images.githubusercontent.com/124501309/224553693-ab29f165-698d-49e6-931f-95079852d7e8.png)
+
+
 ## OVERVIEW:
     PROJECT NAME
     ABOUT PROJECT
@@ -66,6 +69,12 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
 ### VIDEO:
 
+
+
+https://user-images.githubusercontent.com/124501309/224553859-6b8d6d44-ab4f-4b65-ba5d-b499a409faee.mp4
+
+
+
 ### OVERVIEW OF VISUALIZATION:
 
    1) KPIs are placed at the top of the dashboard, to easily view the figures associated with 'Total Complaints', 'Timely Response', 'Complaints In Progress', 'Disputed Rate' and 'Resolved at No Cost'.
@@ -105,3 +114,12 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
    3) Maximum complaint are submitted via web approx. 40k.
 
    4) If we talk about product, Maximum no. of complaints are of credit card.
+
+## NOTE:
+
+I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
+
+### Here is Dashboard in Black. Tell me which one do you like??
+
+![FC OVERVIEW BLACK](https://user-images.githubusercontent.com/124501309/224552451-951db0d3-48f4-4467-b602-8561751a0eb5.png)
+
