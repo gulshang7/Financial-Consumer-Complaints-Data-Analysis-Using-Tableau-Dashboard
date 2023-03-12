@@ -78,23 +78,28 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
 ## Insight Gained:
 
-   • 75,513 - Total number of Complaints were recovered. ¬
+    • 75,513 - Total number of Complaints were recovered. ¬
    
-   • 98.05% of responses by bank were delivered in time as shown by horizontal bar chart.
+    • 98.05% of responses by bank were delivered in time as shown by horizontal bar chart.
    
-   • There were 283 complaints pending which, a minute 0.37% of the total Companies’ response to Consumer. It implies that Bank is quick in handling cases majorly.
+    • There were 283 complaints pending which, a minute 0.37% of the total Companies’ response to Consumer. 
+      It implies that Bank is quick in handling cases majorly.
    
-   • 84.52% of cases were resolved with NO monetary relief.
+    • 84.52% of cases were resolved with NO monetary relief.
    
-   • The Highest Number of Complaints wrt to Products/Services were found in as follows; o Credit Card ~ 19,176 (25.36%) o Checking or Saving Account ~ 13,436(17.79%)       to Mortgage ~ 12,470 (16.51%)
+    • The Highest Number of Complaints wrt to Products/Services were found in as follows; 
+      o Credit Card ~ 19,176 (25.36%) o Checking or Saving Account ~ 13,436(17.79%) o Mortgage ~ 12,470 (16.51%)
    
-   • There were 31,203 complaints in Customer Dispute Cases approximately 40% of the total. Whereas 50% of the complaints are in ‘NA’ category. Here 2 Pie Chart were       created and dual axis feature was used.
+    • There were 31,203 complaints in Customer Dispute Cases approximately 40% of the total. Whereas 50% 
+      of the complaints are in ‘NA’ category. Here 2 Pie Chart were created and dual axis feature was used.
    
-   • Almost 50% of the Complaints were submitted via Internet ie. Website, Portal, Mobile App etc.
+    • Almost 50% of the Complaints were submitted via Internet ie. Website, Portal, Mobile App etc.
    
-   • Consumers’ top issue was regarding ‘Managing an Account’, followed by Deposits & Withdrawal.
+    • Consumers’ top issue was regarding ‘Managing an Account’, followed by Deposits & Withdrawal.
    
-   • For complaints arising from different states, I created ‘hex map’ for better view. States with highest number of complaints was shown in darker shade. States with      small number of complaints was shown in lighter shade. The intensity of shade from darker to lighter were used for corresponding number of complaints.
+    • For complaints arising from different states, I created ‘hex map’ for better view. States with highest number 
+      of complaints was shown in darker shade. States with small number of complaints was shown in lighter shade. 
+      The intensity of shade from darker to lighter were used for corresponding number of complaints.
    
 ## Results
 
