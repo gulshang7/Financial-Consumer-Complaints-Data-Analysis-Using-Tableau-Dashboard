@@ -2,6 +2,11 @@
 
 ![Financial_Complaints_KPI_Analysis_Project (2)](https://user-images.githubusercontent.com/124501309/224553693-ab29f165-698d-49e6-931f-95079852d7e8.png)
 
+## LINKS:
+
+LinkedIn: https://www.linkedin.com/in/gulshan-gedam-362905209/
+
+Dashboard: https://public.tableau.com/app/profile/gulshan.gedam/viz/FinancialConsumerComplaintsDashboardRWFD_16786353606930/Dashboard?publish=yes
 
 ## OVERVIEW:
     PROJECT NAME
