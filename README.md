@@ -4,16 +4,15 @@
     PROJECT NAME
     ABOUT PROJECT
     APPROACH - PROJECT PLANNING & AIMS GRID
-    DATA ANALYST APPROACH
-    DATA ANALYSIS USING SQL
-    DATA ANALYSIS USING TABLEAU
+    DASHBOARD CONTENT
+    DASHBOARD
+    INSIGHT GAIN
+    RESULT
     NOTE
-
 
 ## PROJECT NAME:
 
 Financial Consumer Complaints Data Analysis Using Tableau Dashboard - A Complete KPI Analysis Project
-
 
 ## ABOUT PROJECT:
 
@@ -63,14 +62,13 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
 ## DASHBOARD:
 
-![FC OVERVIEW WHITE](https://user-images.githubusercontent.com/124501309/224549363-5086d870-3dc4-44a9-889c-75583ca0fa48.png)
+![FC OVERVIEW WHITE](https://user-images.githubusercontent.com/124501309/224550453-852c3457-bd5a-4b7a-9027-7e1ddc31fae8.png)
 
 ### VIDEO:
 
 ### OVERVIEW OF VISUALIZATION:
 
-   1) KPIs are placed at the top of the dashboard, to easily view the figures associated with 'Total Complaints', 'Timely Response', 'Complaints In Progress',      
-      'Disputed Rate', and 'Resolved at No Cost'.
+   1) KPIs are placed at the top of the dashboard, to easily view the figures associated with 'Total Complaints', 'Timely Response', 'Complaints In Progress', 'Disputed Rate' and 'Resolved at No Cost'.
 
    2) Complaints are segmented by 'Issue', 'States', 'Media', and 'Product'. For States, a ‘hex map’ is used, while for Media, a ‘Lollipop’ chart is used.
 
@@ -78,7 +76,7 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
    4) I received inspiration for the 'Hex Tile Maps' from 'Sir Viz-a-lot' blogs by "Matt Chambers, MBA".
 
-## INSIGHTS GAINED:
+## Insight Gained:
 
    • 75,513 - Total number of Complaints were recovered. ¬
    
