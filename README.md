@@ -4,11 +4,13 @@
 
 ## LINKS:
 
-Lets Connect [LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+Lets Connect 
 
-Dashboard: https://public.tableau.com/app/profile/gulshan.gedam/viz/FinancialConsumerComplaintsDashboardRWFD_16786353606930/Dashboard?publish=yes
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
-Dashboard Black: https://public.tableau.com/app/profile/gulshan.gedam/viz/FinancialConsumerComplaintsKPIBlack/FCOVERVIEW2?publish=yes
+[Dashboard White link](https://public.tableau.com/app/profile/gulshan.gedam/viz/FinancialConsumerComplaintsDashboardRWFD_16786353606930/Dashboard?publish=yes)
+
+[Dashboard Black link](https://public.tableau.com/app/profile/gulshan.gedam/viz/FinancialConsumerComplaintsKPIBlack/FCOVERVIEW2?publish=yes)
 
 ## OVERVIEW:
     PROJECT NAME
@@ -125,7 +127,7 @@ https://user-images.githubusercontent.com/124501309/224553859-6b8d6d44-ab4f-4b65
 ## NOTE:
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
-
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 ### Here is Dashboard in Black. Tell me which one do you like??
 
 ![FC OVERVIEW BLACK](https://user-images.githubusercontent.com/124501309/224552451-951db0d3-48f4-4467-b602-8561751a0eb5.png)
