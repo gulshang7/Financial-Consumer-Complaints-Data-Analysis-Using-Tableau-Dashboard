@@ -134,3 +134,16 @@ I have uploaded all the files, datasets, workbook, icons above. Feel free to use
 
 ![FC OVERVIEW BLACK](https://user-images.githubusercontent.com/124501309/224552451-951db0d3-48f4-4467-b602-8561751a0eb5.png)
 
+## My Other Projects:
+
+- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
+
+- [HR Analytics using Tableau](https://github.com/gulshang7/HR-Analytics-Dashboard-Using-Tableau) 📜
+
+- [KPI Dashboard of Car Sales Opportunities](https://github.com/gulshang7/KPI_Dashboard_of_Car_sales_Win_Loss_Data_Analysis_using_Excel_and_Tableau) 🛰️
+
+- [Github Profile](https://github.com/gulshang7) 🧮
+
+- [Linkedin](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🤝
+
+
